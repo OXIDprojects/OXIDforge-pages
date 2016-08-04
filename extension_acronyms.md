@@ -61,6 +61,7 @@ If you decide to not publish these information, nobody can guarantee that your a
 | ew  | [eWorks GmbH](http://www.eworks.de/oxid)  |
 | fc  | [FATCHIP GmbH](http://http://www.fatchip.de/)  |
 | fd  | [fabrique d’images ebusiness GmbH](http://www.fabriquedimages.de/)  |
+| ffb  | [four for business AG](http://www.4fb.de/)  |
 | fox  | [foxido.de](http://www.foxido.de/)  |
 | gdk  | [Gedak GmbH](http://gedak.de)  |
 | gh  | [digital guru GmbH & Co. KG](http://greyhound-software.com/)  |
