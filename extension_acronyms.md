@@ -102,7 +102,6 @@ If you decide to not publish these information, nobody can guarantee that your a
 | pp  | [Pixelpark AG](http://www.pixelpark.com/)  |
 | pipro  | [PIXELPRODUZENTEN](http://www.pixelproduzenten.de/)  |
 | pix  | [PIXELPRODUZENTEN](http://www.pixelproduzenten.de/)  |
-| pc  | [PIXELPRODUZENTEN](http://www.pixelproduzenten.de/)  |
 | ps  | [Proud Sourcing GmbH](http://www.pixelproduzenten.de/)  |
 | ps  | [OXID eSales AG (Professional Services)](http://www.oxid-esales.com/en/support-services/professional-services/overview.html) (deprecated)  |
 | ros  | [Reich Online Services GmbH](http://www.reich-online.biz/)  |
