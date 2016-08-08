@@ -108,6 +108,7 @@ If you decide to not publish these information, nobody can guarantee that your a
 | ros  | [Reich Online Services GmbH](http://www.reich-online.biz/)  |
 | rr  | Robert Rosendahl  |
 | sb  | [Shopboost GmbH](http://www.shopboost.de/)  |
+| sc  | [ScaleCommerce GmbH](http://scale.sc/)  |
 | sd  | [solutionDrive GmbH](http://www.solutiondrive.de/)  |
 | se  | [Solid Evolution](http://www.solidevolution.de)  |
 | secom  | [Schommer E-Commerce](http://www.schommer-ecommerce.de/)  |
