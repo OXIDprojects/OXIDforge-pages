@@ -1,14 +1,3 @@
-# Extension acronyms
-This page contains a list of acronyms (or abbreviations) of module manufacturers. They can be used as prefixes in custom classes, database fields and tables as well as for marking the origin of a module for OXID eShop.
-
-These acronyms shall have at least two but not more than four characters and be unique to help online merchants, solution partners or support departments to determine whose extension was used. That’s why we propose to register the acronym of your choice at this page so others will know it is assigned already.
-
-If you want to register your acronym, please send a pull request on GitHub (see button).
-
-Please also provide your company name or your name as a freelancer and a link to your website. You can also link to a specially prepared landing page telling the potential requester that there’s no personal support or only special modules will be supported etc.
-
-If you decide to not publish these information, nobody can guarantee that your acronym will not be used by somebody else.
-
 | Acronym  | Company name |
 | ------------- | ------------- |
 | a4p  | [apps4print](http://www.apps4print.com/)  |
