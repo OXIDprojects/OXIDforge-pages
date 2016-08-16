@@ -97,6 +97,7 @@
 | ros  | [Reich Online Services GmbH](http://www.reich-online.biz/)  |
 | rr  | Robert Rosendahl  |
 | sb  | [Shopboost GmbH](http://www.shopboost.de/)  |
+| sbw  | [Stephan Bauer Webentwicklung](http://stephanbauer.org/)  |
 | sc  | [ScaleCommerce GmbH](http://scale.sc/)  |
 | sd  | [solutionDrive GmbH](http://www.solutiondrive.de/)  |
 | se  | [Solid Evolution](http://www.solidevolution.de)  |
