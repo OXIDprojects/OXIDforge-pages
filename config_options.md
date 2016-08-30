@@ -63,11 +63,13 @@ Some classes can be overloaded, but only by setting up this information in confi
 
 ##blUseCron
 Enables or disables the use of cron jobs in config.inc.php
+
 Implemented with OXID eShop version 4.6.0
 <pre>$this->blUseCron = true;</pre>
 
 ##iCreditRating
 Sets the default value of credit rating
+
 Implemented with OXID eShop version 4.7.3
 <pre>$this->iCreditRating = 1000;</pre>
 
@@ -76,11 +78,13 @@ Prices will be entered without tax
 
 ##blSkipViewUsage
 If you can't log in to the admin panel, try setting the parameter blSkipViewUsage temproarily to "true".
+
 Implemented with OXID eShop version 4.7
 <pre>$this->blSkipViewUsage = true;</pre>
 
 ##sShopLogo
 Add your own logo image file, upload it to /out/az ure/img/.
+
 Implemented with OXID eShop version 4.8
 <pre>$this->sShopLogo = 'your_own_image.jpg'</pre>
 
@@ -90,5 +94,6 @@ Enables shop demo mode
 
 ##blDoNotDisableModuleOnError
 Disable module auto deactivation
+
 Implemented with OXID eShop versions 5.1.2/4.8.2 and 5.0.11/4.7.11
 <pre>$this->blDoNotDisableModuleOnError = false;</pre>
