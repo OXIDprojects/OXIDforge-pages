@@ -37,6 +37,9 @@ Additionally checks if "oxactivefrom > current date < oxactiveto"
 If value is TRUE checks stock state "( oxstock > 0 or ( oxstock <= 0 and ( oxstockflag = 1 or oxstockflag = 4 ) )"
 
 ##sCustomTheme
+Is a global config parameter which activates a template override system for an easier design customization and defines 
+custom theme directory name in ‘views’ folder. The structure of this custom theme has to be the same as main theme. The 
+shop will look up if there is an adapted file in your custom folder; if not it will return to the main folder.
 
 ##blLogChangesInAdmin
 Log all modifications performed in Admin (in oxadminlog table)
