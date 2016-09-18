@@ -17,6 +17,7 @@
 | az  | anzido GmbH  |
 | b2b  | [OXID eSales AG](http://www.oxid-esales.com/) (Enterprise B2B Edition Modules)  |
 | bf  | [Bergfreunde GmbH](http://www.bergfreunde.de/)  |
+| bis  | [Bischoff Webentwicklung](http://www.bischoff-webentwicklung.de/)  |
 | bla  | [bestlife AG](http://www.bestlife.ag/)  |
 | bn  | [Bohm Nonnen Urhahn Büro für interaktive Medien GmbH](http://www.bnu.de/)  |
 | bpy  | [Billpay GmbH](http://www.billpay.de/)  |
