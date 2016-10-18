@@ -16,6 +16,7 @@
 | aw  | [Artware Multimedia GmbH](http://www.artware.at/)  |
 | az  | anzido GmbH  |
 | b2b  | [OXID eSales AG](http://www.oxid-esales.com/) (Enterprise B2B Edition Modules)  |
+| od  | [OXID-Design](https://www.oxid-design.com/)|
 | bf  | [Bergfreunde GmbH](http://www.bergfreunde.de/)  |
 | bis  | [Bischoff Webentwicklung](http://www.bischoff-webentwicklung.de/)  |
 | bla  | [bestlife AG](http://www.bestlife.ag/)  |
