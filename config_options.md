@@ -63,6 +63,44 @@ Some classes can be overloaded, but only by setting up this information in confi
 </pre>
 
 ##aRequireSessionWithParams
+This configuration array specifies additional request parameters, which, if received, forces a new session being started.
+
+This is the default array with the request parameters and their values, which forces a new session: 
+<pre>
+array(
+    'cl' => array(
+        'register' => true,
+        'account'  => true,
+    ),
+    'fnc' => array( 
+        'tobasket' => true, 
+        'login_noredirect' => true, 
+        'tocomparelist'    => true,
+    ),    
+    '_artperpage' => true,
+    'ldtype'      => true,
+    'listorderby' => true,
+);
+</pre>
+
+If you want to extend this array include in config.inc.php file this option:
+<pre>
+$this->aRequireSessionWithParams = array(
+    'parameter_name' => array(
+        'parameter_value' => true,
+    )
+);
+</pre>
+The keys of the array are the names of parameters and the values of the arrays are the parameter values that lead to the 
+session being started, e.g:
+<pre>
+$this->aRequireSessionWithParams = array(
+    'fnc' => array(
+        'login_noredirect' => true,
+    ),
+    'new_sid' => true
+);
+</pre>
 
 ##blUseCron
 Enables or disables the use of cron jobs in config.inc.php
