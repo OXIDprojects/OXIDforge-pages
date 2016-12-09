@@ -83,6 +83,7 @@
 | nr  | [Norisk GmbH](http://www.noriskshop.de)  |
 | nxs  | [NEXUS Netsoft GmbH](http://www.nexus-netsoft.com)  |
 | o2m  | [2melons media GmbH](http://www.2melons.com/)  |
+| one | [One Commerce GmbH](http://www.onecommerce.de/) |
 | ot  | [Ontraq Europe GmbH & Co. KG](http://www.ontraq.eu/)  |
 | ox  | [OXID eSales AG](http://www.oxid-esales.com/)  |
 | oxac  | [OXID Academy](https://www.oxid-esales.com/de/support-services/academy/ueberblick.html)  |
