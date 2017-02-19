@@ -84,6 +84,7 @@
 | nr  | [Norisk GmbH](http://www.noriskshop.de)  |
 | nxs  | [NEXUS Netsoft GmbH](http://www.nexus-netsoft.com)  |
 | o2m  | [2melons media GmbH](http://www.2melons.com/)  |
+| of2 | [Keywan Ghadami](https://github.com/keywan-ghadami-oxid) |
 | one | [One Commerce GmbH](http://www.onecommerce.de/) |
 | ot  | [Ontraq Europe GmbH & Co. KG](http://www.ontraq.eu/)  |
 | ox  | [OXID eSales AG](http://www.oxid-esales.com/)  |
