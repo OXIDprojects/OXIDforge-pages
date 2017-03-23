@@ -77,6 +77,7 @@
 | moe  | Michael Oehme  |
 | mojo  | [mobilemojo](http://www.mobilemojo.de) – Multichannel Commerce  |
 | mos  | [MOS-TANGRAM AG](http://www.mos-tangram.com)  |
+| mpm  | Michaël Parienti |
 | ms  | [S&S Software und Service GmbH](http://www.susdv.de)  |
 | mst  | [Marco Steinhäuser](http://www.marco-steinhaeuser.de)  |
 | net  | [Netensio](http://www.netensio.de)  |
