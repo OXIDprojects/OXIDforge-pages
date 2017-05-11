@@ -7,6 +7,7 @@
 | aik  | [aikme GmbH](http://www.aikmedia.de) (aikmedia)  |
 | aix  | [AIXhibit AG](http://www.aixhibit.de)  |
 | all  | [Allenstein Media](http://roman-allenstein.de)  |
+| any  | [anyMOTION GRAPHICS GmbH](http://www.anymotion.de)  |
 | ao  | [addonline](http://www.addonline.fr)  |
 | ape  | [von Affenfels GmbH](http://www.vonaffenfels.de/)  |
 | as  | [Anton Scheib](http://tonisch.de/)  |
@@ -27,6 +28,7 @@
 | bz  | [Barzahlen](http://www.barzahlen.de/)  |
 | c4s  | [Proclane GmbH](http://www.commerce4sap.com/)  |
 | cc  | [Commerce Coding](http://www.commerce-coding.com/)  |
+| cc  | [Code.Commerce](https://www.codecommerce.de/)  |
 | cher  | Thomas Decher  |
 | cm  | [commodule UG](http://www.commodule.de/)  |
 | cob  | [codeblick – Argun und Seelos GbR](http://www.codeblick.de/)  |
