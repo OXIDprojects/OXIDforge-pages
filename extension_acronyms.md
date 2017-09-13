@@ -97,6 +97,7 @@
 | oxps |  | [OXID eSales AG (Professional Services)](http://www.oxid-esales.com/en/support-services/professional-services/overview.html)  |
 | oe | OxidEsales | [OXID eSales AG (eFire extensions)](http://www.oxid-esales.com/)  |
 | payo |  | [Payolution](http://www.payolution.com/)  |
+| payp |  | [PayPal (Europe) S.à r.l. et Cie, S.C.A.](http://www.paypal.com/)  |
 | pl |  | [premiereline.de](http://www.premiereline.de/)  |
 | pp |  | [Pixelpark AG](http://www.pixelpark.com/)  |
 | pipro |  | [PIXELPRODUZENTEN](http://www.pixelproduzenten.de/)  |
