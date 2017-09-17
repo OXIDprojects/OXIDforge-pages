@@ -8,9 +8,11 @@ Encloser for Im/Export
 Shop will be checked for version in admin home page only if this option is checked
 
 
-##sAltImageDir
-In case if pictures for articles should be loaded from separate server and are available only through http - it's enough to include option in config.inc.php. Then to load picture for article only define the rest http path to the image file. Attention: If this option is set in the configuration file config.inc.php, uploading of product pictures in admin area is not possible!
-<pre>$this->sAltImageDir = "[http://[path_to_images_dir_on_server]/ http://[path_to_images_dir_on_server]/]";</pre>
+##sAltImageDir / sSSLAltImageUrl
+In case if pictures for articles should be loaded from separate server and are available only through http - it's enough to include sAltImageDir option in config.inc.php. Then to load picture for article only define the rest http path to the image file. Attention: If this option is set in the configuration file config.inc.php, uploading of product pictures in admin area is not possible!
+If you are using https, you also have to set the sSSLAltImageUrl option.
+<pre>$this->sAltImageDir = "[http://[path_to_images_dir_on_server]/";
+$this->sSSLAltImageUrl = "[https://[path_to_images_dir_on_server]/";</pre>
 
 ##sCookieDomain
 In case you setup different subdomain for SSL/non-SSL pages cookies may not be shared between them. Defines the domain that the cookie is available.
