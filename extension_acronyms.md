@@ -1,4 +1,4 @@
-| Acronym  | Vendor namespace * | Company name |
+| Acronym  | Vendor namespace | Company name |
 | ------------- | ------------- | ------------- |
 | a4p |  | [apps4print](http://www.apps4print.com/)  |
 | ab |  | [Alfred Bez](http://www.alfredbez.de/)  |
@@ -141,5 +141,3 @@
 | ys |  | [Y-SQUARE](http://www.y-square.de/)  |
 | zox |  | [Zoks.Net](http://www.zoks.net/)  |
 | zw |  | [Zunderweb](http://zunderweb.de)  |
-
-*) Vendor namespace refers to the [PHP Namespace](http://php.net/manual/en/language.namespaces.php) you wish to use in your OXID eSales modules or extensions. The string "Oxid" is reserved by Oxid eSales AG and other vendor namespaces must not contain this string.
