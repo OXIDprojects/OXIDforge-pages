@@ -136,6 +136,7 @@
 | tw |  | [Take it Web](http://www.takeitweb.fr)  |
 | um |  | [Unit M GmbH Mülheim](http://www.unit-m.de)  |
 | ve |  | [VeInteractive](http://www.veinteractive.com)  |
+| ver |  | [VERDURE Medienteam GmbH](https://www.verdure.de)  |
 | vkf |  | [VKF Renzel GmbH](http://www.vkf-renzel.de)  |
 | vt |  | [Marat Bedoev](http://vanilla-thunder.github.io/)  |
 | wes |  | [Weber eBusiness Services GmbH](http://www.weber-ebusiness.de)  |
