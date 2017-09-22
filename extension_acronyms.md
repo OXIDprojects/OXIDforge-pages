@@ -118,12 +118,12 @@
 | slt |  | [SALT Solutions GmbH](http://www.salt-solutions.de/)  |
 | sm |  | [SHOPMACHER ecommerce GmbH & Co. KG](http://shopmacher.de/)  |
 | smx |  | [shoptimax GmbH](http://www.shoptimax.de)  |
-| sol |  | [seidemann: solutions GmbH](http://www.seidemann.com)  |
+| sol | SeidemannSolutions | [seidemann: solutions GmbH](http://www.seidemann.com)  |
 | sov |  | [Sovendus GmbH](http://www.sovendus.com/)  |
 | spark5 |  | [Spark5 GmbH](http://www.spark5.de)  |
 | stme |  | [STUTTGART MEDIA GmbH](https://stuttgartmedia.de)  |
 | sv |  | [Christian Lehmann](http://www.svingo.com)  |
-| sw |  | [Seidemann Web GmbH](http://www.seidemann-web.com)  |
+| sw | SeidemannWeb | [Seidemann Web GmbH](https://seidemann-web.com)  |
 | sx |  | [sologics GmbH & Co. KG](http://www.sologics.de)  |
 | tab |  | [Tobias Merkl](http://www.tabs.eu/)  |
 | tc |  | [top concepts GmbH](http://www.topconcepts.com)  |
