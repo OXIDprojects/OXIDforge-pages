@@ -100,6 +100,7 @@
 | payp |  | [PayPal (Europe) S.à r.l. et Cie, S.C.A.](http://www.paypal.com/)  |
 | pl |  | [premiereline.de](http://www.premiereline.de/)  |
 | pp |  | [Pixelpark AG](http://www.pixelpark.com/)  |
+| pr |  | [primus-print](https://www.primus-print.de/)  |
 | pipro |  | [PIXELPRODUZENTEN](http://www.pixelproduzenten.de/)  |
 | pix |  | [PIXELPRODUZENTEN](http://www.pixelproduzenten.de/)  |
 | ps |  | [Proud Sourcing GmbH](http://www.pixelproduzenten.de/)  |
