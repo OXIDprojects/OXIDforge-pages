@@ -11,7 +11,7 @@
 | ao |  | [addonline](http://www.addonline.fr)  |
 | ape |  | [von Affenfels GmbH](http://www.vonaffenfels.de/)  |
 | as |  | [Anton Scheib](http://tonisch.de/)  |
-| asy |  | Alphasys, Fabian Kunkler  |
+| asy |  | [Alphasys, Fabian Kunkler](https://www.alpha-sys.de/)  |
 | asys |  | [arvato Systems GmbH](http://www.arvato-systems.de/)  |
 | av |  | [active value GmbH](http://www.active-value.de/)  |
 | aw |  | [Artware Multimedia GmbH](http://www.artware.at/)  |
