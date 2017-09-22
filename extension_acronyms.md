@@ -104,6 +104,7 @@
 | pix |  | [PIXELPRODUZENTEN](http://www.pixelproduzenten.de/)  |
 | ps |  | [Proud Sourcing GmbH](http://www.pixelproduzenten.de/)  |
 | ps |  | [OXID eSales AG (Professional Services)](http://www.oxid-esales.com/en/support-services/professional-services/overview.html) (deprecated)  |
+| ra |  | [renzel.agentur GmbH](http://www.renzel-agentur.de/)  |
 | ros |  | [Reich Online Services GmbH](http://www.reich-online.biz/)  |
 | rr |  | Robert Rosendahl  |
 | sb |  | [Shopboost GmbH](http://www.shopboost.de/)  |
