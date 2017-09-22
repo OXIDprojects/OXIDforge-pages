@@ -93,7 +93,7 @@
 | ot |  | [Ontraq Europe GmbH & Co. KG](http://www.ontraq.eu/)  |
 | ox | OxidEsales | [OXID eSales AG](http://www.oxid-esales.com/)  |
 | oxac |  | [OXID Academy](https://www.oxid-esales.com/de/support-services/academy/ueberblick.html)  |
-| oxs |  | [OXID eSales AG (Support)](http://www.oxid-esales.com/en/support-services/overview.html)  |
+| oxs | OxidEsalesSupport | [OXID eSales AG (Support)](http://www.oxid-esales.com/en/support-services/overview.html)  |
 | oxps |  | [OXID eSales AG (Professional Services)](http://www.oxid-esales.com/en/support-services/professional-services/overview.html)  |
 | oe | OxidEsales | [OXID eSales AG (eFire extensions)](http://www.oxid-esales.com/)  |
 | payo |  | [Payolution](http://www.payolution.com/)  |
