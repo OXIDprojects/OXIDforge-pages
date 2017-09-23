@@ -52,7 +52,7 @@
 | ei |  | [eSales International Inc](http://www.esales-international.com/)  |
 | em |  | [egate media GmbH](http://www.egate-media.com/)  |
 | eo |  | [EOD European Online Distribution GmbH](http://www.wellango-shop.de/)  |
-| erx |  | [Euroxid](http://www.euroxid.de/)  |
+| erx | Erx | [Euroxid](http://www.euroxid.de/)  |
 | ew |  | [eWorks GmbH](http://www.eworks.de/oxid)  |
 | fc |  | [FATCHIP GmbH](http://http://www.fatchip.de/)  |
 | fd |  | [fabrique d’images ebusiness GmbH](http://www.fabriquedimages.de/)  |
