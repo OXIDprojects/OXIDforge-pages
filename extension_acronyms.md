@@ -35,6 +35,7 @@
 | d3 |  | [D³ Data Development](http://www.shopmodule.com/)  |
 | dc |  | [datenwerkstatt.com](http://www.datenwerkstatt.com/)  |
 | dd |  | [DeutscheDaten Portal- und Plattformlösungen GmbH](http://www.deutschedaten.de/)  |
+| dd | DigideskMediaSolutions | [digidesk - media solutions](http://www.digidesk.de/)  |
 | ddr |  | [Dmitrijus Druteika](http://www.druteika.lt/)  |
 | dg |  | [draufgeschaut.de](http://www.draufgeschaut.de/)  |
 | dh |  | Dennis Heidtmann  |
@@ -69,9 +70,9 @@
 | js |  | [Jeuck Software](http://www.jeuck-software.de)  |
 | jx |  | [Joachim Barthel](https://github.com/job963)  |
 | kd |  | [koffer-direkt.de GmbH & Co. KG](http://www.koffer-direkt.de/)  |
+| kmt |  | [Kosmonaut GmbH & Co. KG](https://kosmonaut.io/)  |
 | kh |  | [kuehlhaus AG](http://www.kuehlhaus.com/)  |
 | kl |  | [Klarna AB](http://www.klarna.de)  |
-| kmt |  | [Kosmonaut GmbH & Co. KG](https://kosmonaut.io/)  |
 | marm |  | [marmalade GmbH](http://www.marmalade.de/)  |
 | mb |  | Martin Bornack  |
 | mf |  | [Mayflower GmbH](http://www.mayflower.de/)  |
