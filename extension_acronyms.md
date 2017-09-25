@@ -17,7 +17,6 @@
 | aw |  | [Artware Multimedia GmbH](http://www.artware.at/)  |
 | az |  | anzido GmbH  |
 | b2b |  | [OXID eSales AG](http://www.oxid-esales.com/) (Enterprise B2B Edition Modules)  |
-| od |  | [OXID-Design](https://www.oxid-design.com/)|
 | bf | Bergfreunde | [Bergfreunde GmbH](https://www.bergfreunde.de/)  |
 | bo |  | [Myboshi GmbH](https://www.myboshi.net/)  |
 | bis |  | [Bischoff Webentwicklung](http://www.bischoff-webentwicklung.de/)  |
@@ -89,6 +88,7 @@
 | nr |  | [Norisk GmbH](http://www.noriskshop.de)  |
 | nxs |  | [NEXUS Netsoft GmbH](http://www.nexus-netsoft.com)  |
 | o2m |  | [2melons media GmbH](http://www.2melons.com/)  |
+| od |  | [OXID-Design](https://www.oxid-design.com/)|
 | of2 | | [Keywan Ghadami](https://github.com/keywan-ghadami-oxid) |
 | one | | [One Commerce GmbH](http://www.onecommerce.de/) |
 | ot |  | [Ontraq Europe GmbH & Co. KG](http://www.ontraq.eu/)  |
