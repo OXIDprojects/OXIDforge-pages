@@ -118,7 +118,7 @@
 | sit |  | [Schwinkendorf IT Systeme](http://www.shopmodul24.de)  |
 | sl |  | [SPLINELAB](http://www.splinelab.de)  |
 | slt |  | [SALT Solutions GmbH](http://www.salt-solutions.de/)  |
-| sm | Shopmacher | [SHOPMACHER ecommerce GmbH & Co. KG](http://shopmacher.de/)  |
+| sm | Shopmacher | [SHOPMACHER eCommerce GmbH & Co. KG](https://www.shopmacher.de/)  |
 | smx |  | [shoptimax GmbH](http://www.shoptimax.de)  |
 | sol | SeidemannSolutions | [seidemann: solutions GmbH](http://www.seidemann.com)  |
 | sov |  | [Sovendus GmbH](http://www.sovendus.com/)  |
