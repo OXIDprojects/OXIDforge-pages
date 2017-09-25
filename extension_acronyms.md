@@ -70,9 +70,9 @@
 | js |  | [Jeuck Software](http://www.jeuck-software.de)  |
 | jx |  | [Joachim Barthel](https://github.com/job963)  |
 | kd |  | [koffer-direkt.de GmbH & Co. KG](http://www.koffer-direkt.de/)  |
-| kmt |  | [Kosmonaut GmbH & Co. KG](https://kosmonaut.io/)  |
 | kh |  | [kuehlhaus AG](http://www.kuehlhaus.com/)  |
 | kl |  | [Klarna AB](http://www.klarna.de)  |
+| kmt |  | [Kosmonaut GmbH & Co. KG](https://kosmonaut.io/)  |
 | marm |  | [marmalade GmbH](http://www.marmalade.de/)  |
 | mb |  | Martin Bornack  |
 | mf |  | [Mayflower GmbH](http://www.mayflower.de/)  |
