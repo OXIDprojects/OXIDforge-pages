@@ -135,6 +135,7 @@
 | tru |  | [Truman Textilien GmbH](http://www.truman.de/)  |
 | tsw |  | [texdata software gmbh](http://www.texdata.de)  |
 | tw |  | [Take it Web](http://www.takeitweb.fr)  |
+| twt | TWT | [TWT Interactive GmbH](https://www.twt.de)  |
 | um |  | [Unit M GmbH Mülheim](http://www.unit-m.de)  |
 | ve |  | [VeInteractive](http://www.veinteractive.com)  |
 | ver |  | [VERDURE Medienteam GmbH](https://www.verdure.de)  |
