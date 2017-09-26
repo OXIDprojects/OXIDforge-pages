@@ -129,6 +129,7 @@
 | sw | SeidemannWeb | [Seidemann Web GmbH](https://seidemann-web.com)  |
 | sx |  | [sologics GmbH & Co. KG](http://www.sologics.de)  |
 | tab |  | [Tobias Merkl](http://www.tabs.eu/)  |
+| te | techlines | [Noel Tschigor](http://www.techlines.de/)  |
 | tc |  | [top concepts GmbH](http://www.topconcepts.com)  |
 | to |  | [21TORR GmbH](http://www.21torr.com/)  |
 | trka |  | [tarkka.ch](http://www.tarkka.ch/)  |
