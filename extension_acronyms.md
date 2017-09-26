@@ -129,7 +129,7 @@
 | sw | SeidemannWeb | [Seidemann Web GmbH](https://seidemann-web.com)  |
 | sx |  | [sologics GmbH & Co. KG](http://www.sologics.de)  |
 | tab |  | [Tobias Merkl](http://www.tabs.eu/)  |
-| te | techlines | [Noel Tschigor](http://www.techlines.de/)  |
+| te | Techlines | [Noel Tschigor](http://www.techlines.de/)  |
 | tc |  | [top concepts GmbH](http://www.topconcepts.com)  |
 | tm |  | [Tobi Matthaiou](http://www.tobimat.eu/)  |
 | to |  | [21TORR GmbH](http://www.21torr.com/)  |
