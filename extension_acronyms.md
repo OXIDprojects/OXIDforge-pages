@@ -1,7 +1,7 @@
 | Acronym  | Vendor namespace | Company name |
 | ------------- | ------------- | ------------- |
 | a4p |  | [apps4print](http://www.apps4print.com/)  |
-| ab |  | [Alfred Bez](http://www.alfredbez.de/)  |
+| ab | AlfredBez | [Alfred Bez](http://www.alfredbez.de/)  |
 | ag |  | [AGETO Service GmbH](http://www.ageto.de/)  |
 | ag | Aggrosoft | [Aggrosoft GmbH](http://www.aggrosoft.de/)  |
 | aik |  | [aikme GmbH](http://www.aikmedia.de) (aikmedia)  |
