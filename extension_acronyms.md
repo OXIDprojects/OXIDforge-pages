@@ -54,7 +54,7 @@
 | eo |  | [EOD European Online Distribution GmbH](http://www.wellango-shop.de/)  |
 | erx | Erx | [Euroxid](http://www.euroxid.de/)  |
 | ew |  | [eWorks GmbH](http://www.eworks.de/oxid)  |
-| fc |  | [FATCHIP GmbH](http://http://www.fatchip.de/)  |
+| fc | Fatchip | [FATCHIP GmbH](http://http://www.fatchip.de/)  |
 | fd |  | [fabrique d’images ebusiness GmbH](http://www.fabriquedimages.de/)  |
 | ffb |  | [four for business AG](http://www.4fb.de/)  |
 | fox |  | [foxido.de](http://www.foxido.de/)  |
