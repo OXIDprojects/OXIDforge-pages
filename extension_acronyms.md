@@ -45,7 +45,7 @@
 | ds |  | [DefShop KG](http://www.def-shop.com/)  |
 | dw |  | [denkwerk GmbH](http://www.denkwerk.com/)  |
 | dwa |  | [Die WEB-Architektin](http://www.die-web-architektin.de/)  |
-| dx |  | [Dixeno GmbH](http://www.dixeno.de/)  |
+| dx | Dixeno | [Dixeno GmbH](http://www.dixeno.de/)  |
 | eb |  | Wapsol GmbH | [euroblaze](http://www.euroblaze.de/)  |
 | ecom |  | [eCom Software Solution](http://www.ecom-software.de/)  |
 | ecs |  | [eComStyle.de](http://ecomstyle.de/)  |
