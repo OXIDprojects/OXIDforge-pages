@@ -58,12 +58,13 @@
 | fd |  | [fabrique d’images ebusiness GmbH](http://www.fabriquedimages.de/)  |
 | ffb |  | [four for business AG](http://www.4fb.de/)  |
 | fox |  | [foxido.de](http://www.foxido.de/)  |
+| fp | FlorianPalme | [Florian Palme](https://www.florian-palme.de/oxid/) | 
 | gdk |  | [Gedak GmbH](http://gedak.de)  |
 | gh |  | [digital guru GmbH & Co. KG](http://greyhound-software.com/)  |
 | gn2 |  | [gn2 netwerk](http://www.gn2-netwerk.de/)  |
 | gra |  | [GRAVIS Computervertriebsges. mbH](http://www.gravis.de/)  |
 | hsm |  | [A. Hausmann GmbH](http://www.hausmann.at)  |
-| if |  | [Internetfabrik GmbH](http://www.internetfabrik.de/)  |
+| ifabrik | Internetfabrik | [Internetfabrik GmbH](http://www.internetfabrik.de/)  |
 | imva |  | [imva.biz](http://imva.biz/)  |
 | ith |  | [ITholics GmbH](http://www.itholics.de/)  |
 | jn |  | [jaron GmbH](http://www.jaron.de/)  |
