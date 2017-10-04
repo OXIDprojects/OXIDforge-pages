@@ -65,7 +65,8 @@
 | gra |  | [GRAVIS Computervertriebsges. mbH](http://www.gravis.de/)  |
 | hsm |  | [A. Hausmann GmbH](http://www.hausmann.at)  |
 | ifabrik | Internetfabrik | [Internetfabrik GmbH](http://www.internetfabrik.de/)  |
-| imva |  | [imva.biz](http://imva.biz/)  |
+| imva |  | [imva.biz](http://imva.biz/)  
+| ipro |  | [idowapro.de](https://www.idowapro.de/)  |
 | ith |  | [ITholics GmbH](http://www.itholics.de/)  |
 | jn |  | [jaron GmbH](http://www.jaron.de/)  |
 | js |  | [Jeuck Software](http://www.jeuck-software.de)  |
