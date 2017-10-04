@@ -141,6 +141,7 @@
 | tw |  | [Take it Web](http://www.takeitweb.fr)  |
 | twt | TWT | [TWT Interactive GmbH](https://www.twt.de)  |
 | um |  | [Unit M GmbH Mülheim](http://www.unit-m.de)  |
+| vd | VITAdisplays | [VITAdisplays](https://www.vitadisplays.com)  |
 | ve |  | [VeInteractive](http://www.veinteractive.com)  |
 | ver |  | [VERDURE Medienteam GmbH](https://www.verdure.de)  |
 | vkf |  | [VKF Renzel GmbH](http://www.vkf-renzel.de)  |
