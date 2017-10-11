@@ -24,6 +24,7 @@
 | bn |  | [Bohm Nonnen Urhahn Büro für interaktive Medien GmbH](http://www.bnu.de/)  |
 | bpy |  | [Billpay GmbH](http://www.billpay.de/)  |
 | br |  | [bitREC](http://www.bitrec.com)  |
+| bs |  | [Buchsuite GbR](http://www.buchsuite.de)  |
 | bz |  | [Barzahlen](http://www.barzahlen.de/)  |
 | c4s |  | [Proclane GmbH](http://www.commerce4sap.com/)  |
 | cc |  | [Commerce Coding](http://www.commerce-coding.com/)  |
@@ -58,7 +59,7 @@
 | fd |  | [fabrique d’images ebusiness GmbH](http://www.fabriquedimages.de/)  |
 | ffb |  | [four for business AG](http://www.4fb.de/)  |
 | fox |  | [foxido.de](http://www.foxido.de/)  |
-| fp | FlorianPalme | [Florian Palme](https://www.florian-palme.de/oxid/) | 
+| fp | FlorianPalme | [Florian Palme](https://www.florian-palme.de/oxid/) |
 | gdk |  | [Gedak GmbH](http://gedak.de)  |
 | gh |  | [digital guru GmbH & Co. KG](http://greyhound-software.com/)  |
 | gn2 |  | [gn2 netwerk](http://www.gn2-netwerk.de/)  |
@@ -137,6 +138,7 @@
 | trka |  | [tarkka.ch](http://www.tarkka.ch/)  |
 | tro |  | [Tronet GmbH](http://www.tro.net/)  |
 | tru |  | [Truman Textilien GmbH](http://www.truman.de/)  |
+| trw |  | [Lorenz & Lorenz GbR](http://www.the-real-world.de/)  |
 | tsw |  | [texdata software gmbh](http://www.texdata.de)  |
 | tw |  | [Take it Web](http://www.takeitweb.fr)  |
 | twt | TWT | [TWT Interactive GmbH](https://www.twt.de)  |
