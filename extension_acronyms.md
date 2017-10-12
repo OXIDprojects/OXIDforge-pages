@@ -55,7 +55,7 @@
 | eo |  | [EOD European Online Distribution GmbH](http://www.wellango-shop.de/)  |
 | erx | Erx | [Euroxid](http://www.euroxid.de/)  |
 | ew |  | [eWorks GmbH](http://www.eworks.de/oxid)  |
-| fc | Fatchip | [FATCHIP GmbH](http://http://www.fatchip.de/)  |
+| fc | Fatchip | [FATCHIP GmbH](http://www.fatchip.de/)  |
 | fd |  | [fabrique d’images ebusiness GmbH](http://www.fabriquedimages.de/)  |
 | ffb |  | [four for business AG](http://www.4fb.de/)  |
 | fox |  | [foxido.de](http://www.foxido.de/)  |
@@ -111,6 +111,7 @@
 | ps |  | [OXID eSales AG (Professional Services)](http://www.oxid-esales.com/en/support-services/professional-services/overview.html) (deprecated)  |
 | ra |  | [renzel.agentur GmbH](http://www.renzel-agentur.de/)  |
 | ros |  | [Reich Online Services GmbH](http://www.reich-online.biz/)  |
+| rpay | RatePAY | [RatePAY GmbH](https://www.ratepay.com/)  |
 | rr |  | Robert Rosendahl  |
 | sb |  | [Shopboost GmbH](http://www.shopboost.de/)  |
 | sbw |  | [Stephan Bauer Webentwicklung](http://stephanbauer.org/)  |
