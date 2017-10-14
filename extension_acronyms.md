@@ -19,7 +19,7 @@
 | b2b |  | [OXID eSales AG](http://www.oxid-esales.com/) (Enterprise B2B Edition Modules)  |
 | bf | Bergfreunde | [Bergfreunde GmbH](https://www.bergfreunde.de/)  |
 | bo |  | [Myboshi GmbH](https://www.myboshi.net/)  |
-| bis |  | [Bischoff Webentwicklung](http://www.bischoff-webentwicklung.de/)  |
+| bis | BisWeb | [Bischoff Webentwicklung](https://bischoff-webentwicklung.de/)  |
 | bla |  | [bestlife AG](http://www.bestlife.ag/)  |
 | bn |  | [Bohm Nonnen Urhahn Büro für interaktive Medien GmbH](http://www.bnu.de/)  |
 | bpy |  | [Billpay GmbH](http://www.billpay.de/)  |
