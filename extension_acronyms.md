@@ -40,7 +40,7 @@
 | ddr |  | [Dmitrijus Druteika](http://www.druteika.lt/)  |
 | dg |  | [draufgeschaut.de](http://www.draufgeschaut.de/)  |
 | dh |  | Dennis Heidtmann  |
-| did | | [digitaldrang](http://www.digitaldrang.de)  |
+| did | digitaldrang | [digitaldrang](http://www.digitaldrang.de)  |
 | dk |  | [Christian Neumann, Datenkarussell](http://www.datenkarussell.de)  |
 | dot |  | [dotfly GmbH](http://www.dotfly.de)  |
 | ds |  | [DefShop KG](http://www.def-shop.com/)  |
