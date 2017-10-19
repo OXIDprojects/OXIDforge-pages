@@ -75,6 +75,7 @@
 | kmt |  | [Kosmonaut GmbH & Co. KG](https://kosmonaut.io/)  |
 | kh |  | [kuehlhaus AG](http://www.kuehlhaus.com/)  |
 | kl |  | [Klarna AB](http://www.klarna.de)  |
+| ld |  | [Pferdesporthaus Loesdau GmbH & Co. KG](https://www.loesdau.de/)  |
 | marm |  | [marmalade GmbH](http://www.marmalade.de/)  |
 | mb |  | Martin Bornack  |
 | mf |  | [Mayflower GmbH](http://www.mayflower.de/)  |
