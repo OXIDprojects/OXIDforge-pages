@@ -64,7 +64,7 @@
 | gn2 |  | [gn2 netwerk](http://www.gn2-netwerk.de/)  |
 | gra |  | [GRAVIS Computervertriebsges. mbH](http://www.gravis.de/)  |
 | hsm |  | [A. Hausmann GmbH](http://www.hausmann.at)  |
-| idowapro | idowapro | [idowapro.de](https://www.idowapro.de/)  |
+| ipro | idowapro | [idowapro.de](https://www.idowapro.de/)  |
 | ifabrik | Internetfabrik | [Internetfabrik GmbH](http://www.internetfabrik.de/)  |
 | imva |  | [imva.biz](http://imva.biz/)  |
 | ith |  | [ITholics GmbH](http://www.itholics.de/)  |
