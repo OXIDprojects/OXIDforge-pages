@@ -117,6 +117,7 @@
 | ros |  | [Reich Online Services GmbH](http://www.reich-online.biz/)  |
 | rpay | RatePAY | [RatePAY GmbH](https://www.ratepay.com/)  |
 | rr |  | Robert Rosendahl  |
+| rth | RiethBiz | [Helmut Rieth](https://www.rieth.biz/)  |
 | sb |  | [Shopboost GmbH](http://www.shopboost.de/)  |
 | sbw |  | [Stephan Bauer Webentwicklung](http://stephanbauer.org/)  |
 | sc |  | [ScaleCommerce GmbH](http://scale.sc/)  |
