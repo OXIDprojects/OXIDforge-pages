@@ -93,6 +93,7 @@
 | net |  | [Netensio](http://www.netensio.de)  |
 | nf |  | [Netzfokus GmbH](http://www.netzfokus.de)  |
 | nr | norisk | [Norisk GmbH](http://www.noriskshop.de)  |
+| nw | Naehwelt | [Nähwelt Flach GmbH](https://www.naehwelt-flach.de)  |
 | nxs |  | [NEXUS Netsoft GmbH](http://www.nexus-netsoft.com)  |
 | o2m |  | [2melons media GmbH](http://www.2melons.com/)  |
 | od |  | [OXID-Design](https://www.oxid-design.com/)|
