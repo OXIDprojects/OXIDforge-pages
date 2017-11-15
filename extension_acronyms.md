@@ -114,7 +114,7 @@
 | pix |  | [PIXELPRODUZENTEN](http://www.pixelproduzenten.de/)  |
 | ps | ProudSourcing | [Proud Sourcing GmbH](https://www.proudcommerce.com)  |
 | ps |  | [OXID eSales AG (Professional Services)](http://www.oxid-esales.com/en/support-services/professional-services/overview.html) (deprecated)  |
-| ra |  | [renzel.agentur GmbH](http://www.renzel-agentur.de/)  |
+| ra | RenzelAgentur | [renzel.agentur GmbH](http://www.renzel-agentur.de/)  |
 | ros |  | [Reich Online Services GmbH](http://www.reich-online.biz/)  |
 | rpay | RatePAY | [RatePAY GmbH](https://www.ratepay.com/)  |
 | rr |  | Robert Rosendahl  |
@@ -152,7 +152,7 @@
 | vd | VITAdisplays | [VITAdisplays](https://www.vitadisplays.com)  |
 | ve |  | [VeInteractive](http://www.veinteractive.com)  |
 | ver |  | [VERDURE Medienteam GmbH](https://www.verdure.de)  |
-| vkf |  | [VKF Renzel GmbH](http://www.vkf-renzel.de)  |
+| vkf | VKFRenzel | [VKF Renzel GmbH](http://www.vkf-renzel.de)  |
 | vt |  | [Marat Bedoev](http://vanilla-thunder.github.io/)  |
 | wes |  | [Weber eBusiness Services GmbH](http://www.weber-ebusiness.de)  |
 | wn |  | [Wendnet](http://exchange.oxid-esales.com/index.php?cl=search&amp;searchparam=wendnet)  |
