@@ -1,4 +1,4 @@
-# Exception log seems to be cut off somehow
+## Exception log seems to be cut off somehow
 
 ```
 OxidEsales\EshopCommunity\Core\Exception\SystemComponentException-OxidEsales\EshopCommunity\Core\Exception\StandardException (time: 2017-11-20 21:16:50): [0]: EXCEPTION_SYSTEMCOMPONENT_CLASSNOTFOUND Utils 
@@ -19,6 +19,7 @@ OxidEsales\EshopCommunity\Core\Exception\SystemComponentException-OxidEsales\Esh
  Faulty component --> 
 
 ``` 
+### Possible solutions
 1. Try setting `xdebug.var_display_max_data`. To disable any limitation, use -1 as value.
 2. `oxexception` uses getTraceAsString, which automatically strips StackTrace to limited amount of chars
 das in die core/exception/oxexception.php und statt dem call von “getTraceAsString” (bei mir in line 159) rufst du die methode “getExceptionTraceAsString” auf:
@@ -61,3 +62,28 @@ protected function getExceptionTraceAsString() {
  	return $rtn;
 }
 ```
+## An exception occurred while executing 'INSERT INTO `oxconfig`
+
+...
+Fehler beim Ausführen des Kommandos 'Migration'. Returncode: '0'.
+Das Kommando gibt folgende Meldung zurück:
+
+An exception occurred while executing 'INSERT INTO `oxconfig` (`OXID`, `OXSHOPID`, `OXMODULE`, `OXVARNAME`, `OXVARTYPE`, `OXVARVALUE`)
+SELECT
+CONCAT(SUBSTRING(`OXID`,1, 16),SUBSTRING(REPLACE( UUID( ) , '-', '' ), 17,32)) AS `OXID`,
+`OXSHOPID`,
+`OXMODULE`,
+"blSendTechnicalInformationToOxid" AS `OXVARNAME`,
+`OXVARTYPE`,
+`OXVARVALUE`
+FROM `oxconfig`
+WHERE `OXVARNAME` = 'blLoadDynContents'
+AND NOT EXISTS (
+SELECT `OXVARNAME` FROM `oxconfig` WHERE `OXVARNAME` = 'blSendTechnicalInformationToOxid'
+);':
+
+SQLSTATE[HY000]: General error: 1270 Illegal mix of collations (utf8_general_ci,COERCIBLE), (utf8_unicode_ci,COERCIBLE), (utf8_unicode_ci,COERCIBLE) for operation 'replace'
+FEHLER: (Demodaten)Probleme mit folgenden SQL Befehlen:
+...
+
+### Possible solutions
