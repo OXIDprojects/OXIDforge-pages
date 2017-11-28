@@ -64,7 +64,7 @@ protected function getExceptionTraceAsString() {
 ```
 ## An exception occurred while executing 'INSERT INTO `oxconfig`
 
-...
+```
 Fehler beim Ausführen des Kommandos 'Migration'. Returncode: '0'.
 Das Kommando gibt folgende Meldung zurück:
 
@@ -84,6 +84,6 @@ SELECT `OXVARNAME` FROM `oxconfig` WHERE `OXVARNAME` = 'blSendTechnicalInformati
 
 SQLSTATE[HY000]: General error: 1270 Illegal mix of collations (utf8_general_ci,COERCIBLE), (utf8_unicode_ci,COERCIBLE), (utf8_unicode_ci,COERCIBLE) for operation 'replace'
 FEHLER: (Demodaten)Probleme mit folgenden SQL Befehlen:
-...
+```
 
 ### Possible solutions
