@@ -2,6 +2,8 @@ This document describes several possibilities how to forward the URL for your OX
 
 ## Adapt your vhost
 
+similar to https://mysqldumper.jira.com/wiki/spaces/OTC/pages/11665436/Installing+manually
+
 ## Set a symlink
 
 ## Alter your .htaccess file
