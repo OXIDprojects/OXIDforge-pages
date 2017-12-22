@@ -4,7 +4,7 @@
 | ab | AlfredBez | [Alfred Bez](http://www.alfredbez.de/)  |
 | ag |  | [AGETO Service GmbH](http://www.ageto.de/)  |
 | ag | Aggrosoft | [Aggrosoft GmbH](http://www.aggrosoft.de/)  |
-| aik |  | [aikme GmbH](http://www.aikmedia.de) (aikmedia)  |
+| aik |  | aikme GmbH (aikmedia)  |
 | aix |  | [AIXhibit AG](http://www.aixhibit.de)  |
 | all |  | [Allenstein Media](http://roman-allenstein.de)  |
 | any |  | [anyMOTION GRAPHICS GmbH](http://www.anymotion.de)  |
