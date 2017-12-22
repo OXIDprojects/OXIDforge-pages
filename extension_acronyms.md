@@ -42,7 +42,7 @@
 | dg |  | [draufgeschaut.de](http://www.draufgeschaut.de/)  |
 | dh |  | Dennis Heidtmann  |
 | did | digitaldrang | [digitaldrang](http://www.digitaldrang.de)  |
-| dk |  | [Christian Neumann, Datenkarussell](http://www.datenkarussell.de)  |
+| dk |  | Christian Neumann, Datenkarussell |
 | dot |  | [dotfly GmbH](http://www.dotfly.de)  |
 | ds |  | [DefShop KG](http://www.def-shop.com/)  |
 | dw |  | [denkwerk GmbH](http://www.denkwerk.com/)  |
