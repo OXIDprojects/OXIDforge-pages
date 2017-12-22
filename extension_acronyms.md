@@ -44,7 +44,7 @@
 | did | digitaldrang | [digitaldrang](http://www.digitaldrang.de)  |
 | dk |  | Christian Neumann, Datenkarussell |
 | dot |  | [dotfly GmbH](http://www.dotfly.de)  |
-| ds |  | [DefShop KG](http://www.def-shop.com/)  |
+| ds |  | DefShop KG |
 | dw |  | [denkwerk GmbH](http://www.denkwerk.com/)  |
 | dwa |  | [Die WEB-Architektin](http://www.die-web-architektin.de/)  |
 | dx | Dixeno | [Dixeno GmbH](http://www.dixeno.de/)  |
