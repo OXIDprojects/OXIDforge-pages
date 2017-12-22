@@ -96,7 +96,7 @@
 | nr | norisk | [Norisk GmbH](http://www.noriskshop.de)  |
 | nw | Naehwelt | [Nähwelt Flach GmbH](https://www.naehwelt-flach.de)  |
 | nxs |  | [NEXUS Netsoft GmbH](http://www.nexus-netsoft.com)  |
-| o2m |  | [2melons media GmbH](http://www.2melons.com/)  |
+| o2m |  | 2melons media GmbH |
 | od |  | [OXID-Design](https://www.oxid-design.com/)|
 | of2 | | [Keywan Ghadami](https://github.com/keywan-ghadami-oxid) |
 | one | | [One Commerce GmbH](http://www.onecommerce.de/) |
