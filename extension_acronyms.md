@@ -35,7 +35,7 @@
 | cob |  | [codeblick – Argun und Seelos GbR](http://www.codeblick.de/)  |
 | conn |  | [connectiv! eSolutions GmbH](https://www.connectiv.de/)  |
 | d3 | D3 | [D³ Data Development](http://www.shopmodule.com/)  |
-| dc |  | [datenwerkstatt.com](http://www.datenwerkstatt.com/)  |
+| dc |  | datenwerkstatt.com |
 | dd |  | [DeutscheDaten Portal- und Plattformlösungen GmbH](http://www.deutschedaten.de/)  |
 | dd | DigideskMediaSolutions | [digidesk - media solutions](http://www.digidesk.de/)  |
 | ddr |  | [Dmitrijus Druteika](http://www.druteika.lt/)  |
