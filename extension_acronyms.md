@@ -44,6 +44,7 @@
 | did | digitaldrang | [digitaldrang](http://www.digitaldrang.de)  |
 | dk |  | Christian Neumann, Datenkarussell |
 | dot |  | [dotfly GmbH](http://www.dotfly.de)  |
+| dre |  | [Bodynova GmbH](https://bodynova.de)  | 
 | ds |  | DefShop KG |
 | dw |  | [denkwerk GmbH](http://www.denkwerk.com/)  |
 | dwa |  | [Die WEB-Architektin](http://www.die-web-architektin.de/)  |
