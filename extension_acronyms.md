@@ -101,7 +101,7 @@
 | od |  | [OXID-Design](https://www.oxid-design.com/)|
 | of2 | | [Keywan Ghadami](https://github.com/keywan-ghadami-oxid) |
 | one | | [One Commerce GmbH](http://www.onecommerce.de/) |
-| ot |  | [Ontraq Europe GmbH & Co. KG](http://www.ontraq.eu/)  |
+| ot | Ontraq | [Ontraq Europe GmbH & Co. KG](http://www.ontraq.eu/)  |
 | ox | OxidEsales | [OXID eSales AG](http://www.oxid-esales.com/)  |
 | oxcom | OxidCommunity | [OXID Community](https://github.com/OXIDprojects/)  |
 | oxac | OxidAcademy | [OXID Academy](https://www.oxid-esales.com/de/support-services/academy/ueberblick.html)  |
