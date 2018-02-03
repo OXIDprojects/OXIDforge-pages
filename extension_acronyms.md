@@ -74,6 +74,7 @@
 | jn |  | [jaron GmbH](http://www.jaron.de/)  |
 | js |  | [Jeuck Software](http://www.jeuck-software.de)  |
 | jx |  | [Joachim Barthel](https://github.com/job963)  |
+| ka | kaluzki | [Demjan Kaluzki](https://github.com/kaluzki/)  |
 | kd |  | [koffer-direkt.de GmbH & Co. KG](http://www.koffer-direkt.de/)  |
 | kmt |  | [Kosmonaut GmbH & Co. KG](https://kosmonaut.io/)  |
 | kh |  | [kuehlhaus AG](http://www.kuehlhaus.com/)  |
