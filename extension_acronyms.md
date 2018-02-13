@@ -107,7 +107,7 @@
 | oxcom | OxidCommunity | [OXID Community](https://github.com/OXIDprojects/)  |
 | oxac | OxidAcademy | [OXID Academy](https://www.oxid-esales.com/de/support-services/academy/ueberblick.html)  |
 | oxs | OxidEsalesSupport | [OXID eSales AG (Support)](http://www.oxid-esales.com/en/support-services/overview.html)  |
-| oxps |  | [OXID eSales AG (Professional Services)](http://www.oxid-esales.com/en/support-services/professional-services/overview.html)  |
+| oxps | OxidProfessionalServices | [OXID eSales AG (Professional Services)](http://www.oxid-esales.com/en/support-services/professional-services/overview.html)  |
 | oe | OxidEsales | [OXID eSales AG (eFire extensions)](http://www.oxid-esales.com/)  |
 | payo |  | [Payolution](http://www.payolution.com/)  |
 | payp |  | [PayPal (Europe) S.à r.l. et Cie, S.C.A.](http://www.paypal.com/)  |
