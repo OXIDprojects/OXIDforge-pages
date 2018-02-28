@@ -165,4 +165,4 @@
 | ys |  | [Y-SQUARE](http://www.y-square.de/)  |
 | zox |  | [Zoks.Net](http://www.zoks.net/)  |
 | zw |  | [Zunderweb](http://zunderweb.de)  |
-| zx |  | [Zaxxo UG](http://zaxxo.de)  |
+| zx | Zaxxo | [Zaxxo UG](http://zaxxo.de)  |
