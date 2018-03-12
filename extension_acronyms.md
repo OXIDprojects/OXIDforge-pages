@@ -79,6 +79,7 @@
 | kmt |  | [Kosmonaut GmbH & Co. KG](https://kosmonaut.io/)  |
 | kh |  | [kuehlhaus AG](http://www.kuehlhaus.com/)  |
 | kl |  | [Klarna AB](http://www.klarna.de)  |
+| laudert | Laudert | [Laudert GmbH & Co. KG](https://www.laudert.com) |
 | ld | Loesdau | [Pferdesporthaus Loesdau GmbH & Co. KG](https://www.loesdau.de/)  |
 | makaira | Makaira | [Makaira - (a marmalade project)](https://www.makaira.io/)  |
 | marm | Marmalade | [marmalade GmbH](http://www.marmalade.de/)  |
