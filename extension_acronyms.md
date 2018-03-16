@@ -138,6 +138,7 @@
 | sol | SeidemannSolutions | [seidemann: solutions GmbH](http://www.seidemann.com)  |
 | sov |  | [Sovendus GmbH](http://www.sovendus.com/)  |
 | spark5 |  | [Spark5 GmbH](http://www.spark5.de)  |
+| st | subtel | [subtel GmbH](https://www.subtel.de)  |
 | stme |  | [STUTTGART MEDIA GmbH](https://stuttgartmedia.de)  |
 | sv |  | [Christian Lehmann](http://www.svingo.com)  |
 | sw | SeidemannWeb | [Seidemann Web GmbH](https://seidemann-web.com)  |
