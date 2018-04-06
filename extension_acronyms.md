@@ -6,6 +6,7 @@
 | ag | Aggrosoft | [Aggrosoft GmbH](http://www.aggrosoft.de/)  |
 | aik |  | aikme GmbH (aikmedia)  |
 | aix |  | [AIXhibit AG](http://www.aixhibit.de)  |
+| ak | AdrianKirchner | [Adrian Kirchner](https://adrian-kirchner.com/)  |
 | all |  | [Allenstein Media](http://roman-allenstein.de)  |
 | any |  | [anyMOTION GRAPHICS GmbH](http://www.anymotion.de)  |
 | ao |  | [addonline](http://www.addonline.fr)  |
