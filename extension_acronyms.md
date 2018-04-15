@@ -76,6 +76,7 @@
 | kd |  | [koffer-direkt.de GmbH & Co. KG](http://www.koffer-direkt.de/)  |
 | kmt |  | [Kosmonaut GmbH & Co. KG](https://kosmonaut.io/)  |
 | kh |  | [kuehlhaus AG](http://www.kuehlhaus.com/)  |
+| kira |  | [Kira Informatik GmbH](http://www.kiratik.de/)  |
 | kl |  | [Klarna AB](http://www.klarna.de)  |
 | ld | Loesdau | [Pferdesporthaus Loesdau GmbH & Co. KG](https://www.loesdau.de/)  |
 | makaira | Makaira | [Makaira - (a marmalade project)](https://www.makaira.io/)  |
