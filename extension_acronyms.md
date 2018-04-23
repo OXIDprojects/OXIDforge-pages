@@ -14,7 +14,7 @@
 | as |  | [Anton Scheib](http://tonisch.de/)  |
 | asy | AlphaSys | [Alpha-Sys, Fabian Kunkler](https://www.alpha-sys.de/)  |
 | asys |  | [arvato Systems GmbH](http://www.arvato-systems.de/)  |
-| av |  | [active value GmbH](http://www.active-value.de/)  |
+| av | ActiveValue | [active value GmbH](http://www.active-value.de/)  |
 | aw |  | [Artware Multimedia GmbH](http://www.artware.at/)  |
 | az |  | anzido GmbH  |
 | b2b |  | [OXID eSales AG](http://www.oxid-esales.com/) (Enterprise B2B Edition Modules)  |
