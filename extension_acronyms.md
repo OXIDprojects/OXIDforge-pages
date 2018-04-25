@@ -12,6 +12,7 @@
 | ao |  | [addonline](http://www.addonline.fr)  |
 | ape |  | [von Affenfels GmbH](http://www.vonaffenfels.de/)  |
 | as |  | [Anton Scheib](http://tonisch.de/)  |
+| asign | ASign | [A-Sign GmbH](http://www.a-sign.ch/)  |
 | asy | AlphaSys | [Alpha-Sys, Fabian Kunkler](https://www.alpha-sys.de/)  |
 | asys |  | [arvato Systems GmbH](http://www.arvato-systems.de/)  |
 | av | ActiveValue | [active value GmbH](http://www.active-value.de/)  |
