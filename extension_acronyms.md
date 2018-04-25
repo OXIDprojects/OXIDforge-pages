@@ -25,7 +25,7 @@
 | bn |  | [Bohm Nonnen Urhahn Büro für interaktive Medien GmbH](http://www.bnu.de/)  |
 | bpy |  | [Billpay GmbH](http://www.billpay.de/)  |
 | br |  | [bitREC](http://www.bitrec.com)  |
-| bs |  | [Buchsuite GbR](http://www.buchsuite.de)  |
+| bs | BuchSuite | [Buchsuite GbR](http://www.buchsuite.de)  |
 | bz |  | [Barzahlen](http://www.barzahlen.de/)  |
 | c4s |  | [Proclane GmbH](http://www.commerce4sap.com/)  |
 | cc |  | Commerce Coding |
@@ -45,7 +45,7 @@
 | did | digitaldrang | [digitaldrang](http://www.digitaldrang.de)  |
 | dk |  | Christian Neumann, Datenkarussell |
 | dot |  | [dotfly GmbH](http://www.dotfly.de)  |
-| dre |  | [Bodynova GmbH](https://bodynova.de)  | 
+| dre |  | [Bodynova GmbH](https://bodynova.de)  |
 | ds |  | DefShop KG |
 | dw |  | [denkwerk GmbH](http://www.denkwerk.com/)  |
 | dwa |  | [Die WEB-Architektin](http://www.die-web-architektin.de/)  |
@@ -154,7 +154,7 @@
 | trka |  | [tarkka.ch](http://www.tarkka.ch/)  |
 | tro |  | [Tronet GmbH](http://www.tro.net/)  |
 | tru |  | [Truman Textilien GmbH](http://www.truman.de/)  |
-| trw |  | [Lorenz & Lorenz GbR](http://www.the-real-world.de/)  |
+| trw | TheRealWorld | [Lorenz & Lorenz GbR](http://www.the-real-world.de/)  |
 | tsw |  | [texdata software gmbh](http://www.texdata.de)  |
 | tw |  | [Take it Web](http://www.takeitweb.fr)  |
 | twt | TWT | [TWT Interactive GmbH](https://www.twt.de)  |
