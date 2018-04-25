@@ -4,45 +4,49 @@
 | ab | AlfredBez | [Alfred Bez](http://www.alfredbez.de/)  |
 | ag |  | [AGETO Service GmbH](http://www.ageto.de/)  |
 | ag | Aggrosoft | [Aggrosoft GmbH](http://www.aggrosoft.de/)  |
-| aik |  | [aikme GmbH](http://www.aikmedia.de) (aikmedia)  |
+| aik |  | aikme GmbH (aikmedia)  |
 | aix |  | [AIXhibit AG](http://www.aixhibit.de)  |
+| ak | AdrianKirchner | [Adrian Kirchner](https://adrian-kirchner.com/)  |
 | all |  | [Allenstein Media](http://roman-allenstein.de)  |
 | any |  | [anyMOTION GRAPHICS GmbH](http://www.anymotion.de)  |
 | ao |  | [addonline](http://www.addonline.fr)  |
 | ape |  | [von Affenfels GmbH](http://www.vonaffenfels.de/)  |
 | as |  | [Anton Scheib](http://tonisch.de/)  |
-| asy |  | [Alphasys, Fabian Kunkler](https://www.alpha-sys.de/)  |
+| asy | AlphaSys | [Alpha-Sys, Fabian Kunkler](https://www.alpha-sys.de/)  |
 | asys |  | [arvato Systems GmbH](http://www.arvato-systems.de/)  |
-| av |  | [active value GmbH](http://www.active-value.de/)  |
+| av | ActiveValue | [active value GmbH](http://www.active-value.de/)  |
 | aw |  | [Artware Multimedia GmbH](http://www.artware.at/)  |
 | az |  | anzido GmbH  |
 | b2b |  | [OXID eSales AG](http://www.oxid-esales.com/) (Enterprise B2B Edition Modules)  |
 | bf | Bergfreunde | [Bergfreunde GmbH](https://www.bergfreunde.de/)  |
 | bo |  | [Myboshi GmbH](https://www.myboshi.net/)  |
-| bis |  | [Bischoff Webentwicklung](http://www.bischoff-webentwicklung.de/)  |
+| bis | BisWeb | [Bischoff Webentwicklung](https://bischoff-webentwicklung.de/)  |
 | bla |  | [bestlife AG](http://www.bestlife.ag/)  |
 | bn |  | [Bohm Nonnen Urhahn Büro für interaktive Medien GmbH](http://www.bnu.de/)  |
 | bpy |  | [Billpay GmbH](http://www.billpay.de/)  |
 | br |  | [bitREC](http://www.bitrec.com)  |
+| bs |  | [Buchsuite GbR](http://www.buchsuite.de)  |
 | bz |  | [Barzahlen](http://www.barzahlen.de/)  |
 | c4s |  | [Proclane GmbH](http://www.commerce4sap.com/)  |
-| cc |  | [Commerce Coding](http://www.commerce-coding.com/)  |
+| cc |  | Commerce Coding |
 | cc |  | [Code.Commerce](https://www.codecommerce.de/)  |
 | cher |  | Thomas Decher  |
 | cm |  | [commodule UG](http://www.commodule.de/)  |
+| cnc |  | [concepts and creations](http://www.con-creat.de/)  |
 | cob |  | [codeblick – Argun und Seelos GbR](http://www.codeblick.de/)  |
 | conn |  | [connectiv! eSolutions GmbH](https://www.connectiv.de/)  |
 | d3 | D3 | [D³ Data Development](http://www.shopmodule.com/)  |
-| dc |  | [datenwerkstatt.com](http://www.datenwerkstatt.com/)  |
+| dc |  | datenwerkstatt.com |
 | dd |  | [DeutscheDaten Portal- und Plattformlösungen GmbH](http://www.deutschedaten.de/)  |
 | dd | DigideskMediaSolutions | [digidesk - media solutions](http://www.digidesk.de/)  |
 | ddr |  | [Dmitrijus Druteika](http://www.druteika.lt/)  |
 | dg |  | [draufgeschaut.de](http://www.draufgeschaut.de/)  |
 | dh |  | Dennis Heidtmann  |
-| did | | [digitaldrang](http://www.digitaldrang.de)  |
-| dk |  | [Christian Neumann, Datenkarussell](http://www.datenkarussell.de)  |
+| did | digitaldrang | [digitaldrang](http://www.digitaldrang.de)  |
+| dk |  | Christian Neumann, Datenkarussell |
 | dot |  | [dotfly GmbH](http://www.dotfly.de)  |
-| ds |  | [DefShop KG](http://www.def-shop.com/)  |
+| dre |  | [Bodynova GmbH](https://bodynova.de)  | 
+| ds |  | DefShop KG |
 | dw |  | [denkwerk GmbH](http://www.denkwerk.com/)  |
 | dwa |  | [Die WEB-Architektin](http://www.die-web-architektin.de/)  |
 | dx | Dixeno | [Dixeno GmbH](http://www.dixeno.de/)  |
@@ -54,30 +58,38 @@
 | eo |  | [EOD European Online Distribution GmbH](http://www.wellango-shop.de/)  |
 | erx | Erx | [Euroxid](http://www.euroxid.de/)  |
 | ew |  | [eWorks GmbH](http://www.eworks.de/oxid)  |
-| fc | Fatchip | [FATCHIP GmbH](http://http://www.fatchip.de/)  |
+| fa | Fleurami | [fleur ami GmbH](http://www.fleur-ami.com/)  |
+| fc | Fatchip | [FATCHIP GmbH](http://www.fatchip.de/)  |
 | fd |  | [fabrique d’images ebusiness GmbH](http://www.fabriquedimages.de/)  |
 | ffb |  | [four for business AG](http://www.4fb.de/)  |
 | fox |  | [foxido.de](http://www.foxido.de/)  |
-| fp | FlorianPalme | [Florian Palme](https://www.florian-palme.de/oxid/) | 
+| fp | FlorianPalme | [Florian Palme](https://www.florian-palme.de/oxid/) |
 | gdk |  | [Gedak GmbH](http://gedak.de)  |
 | gh |  | [digital guru GmbH & Co. KG](http://greyhound-software.com/)  |
 | gn2 |  | [gn2 netwerk](http://www.gn2-netwerk.de/)  |
 | gra |  | [GRAVIS Computervertriebsges. mbH](http://www.gravis.de/)  |
 | hsm |  | [A. Hausmann GmbH](http://www.hausmann.at)  |
+| ipro | idowapro | [idowapro.de](https://www.idowapro.de/)  |
 | ifabrik | Internetfabrik | [Internetfabrik GmbH](http://www.internetfabrik.de/)  |
 | imva |  | [imva.biz](http://imva.biz/)  |
 | ith |  | [ITholics GmbH](http://www.itholics.de/)  |
 | jn |  | [jaron GmbH](http://www.jaron.de/)  |
 | js |  | [Jeuck Software](http://www.jeuck-software.de)  |
 | jx |  | [Joachim Barthel](https://github.com/job963)  |
+| ka | kaluzki | [Demjan Kaluzki](https://github.com/kaluzki/)  |
 | kd |  | [koffer-direkt.de GmbH & Co. KG](http://www.koffer-direkt.de/)  |
 | kmt |  | [Kosmonaut GmbH & Co. KG](https://kosmonaut.io/)  |
 | kh |  | [kuehlhaus AG](http://www.kuehlhaus.com/)  |
+| kira |  | [Kira Informatik GmbH](http://www.kiratik.de/)  |
 | kl |  | [Klarna AB](http://www.klarna.de)  |
-| marm |  | [marmalade GmbH](http://www.marmalade.de/)  |
+| laudert | Laudert | [Laudert GmbH & Co. KG](https://www.laudert.com) |
+| ld | Loesdau | [Pferdesporthaus Loesdau GmbH & Co. KG](https://www.loesdau.de/)  |
+| makaira | Makaira | [Makaira - (a marmalade project)](https://www.makaira.io/)  |
+| marm | Marmalade | [marmalade GmbH](http://www.marmalade.de/)  |
 | mb |  | Martin Bornack  |
 | mf |  | [Mayflower GmbH](http://www.mayflower.de/)  |
 | mg |  | [suabo](http://www.suabo.de/)  |
+| mgm |  | [mgm technology partners GmbH](http://www.mgm-tp.com)  |
 | mo |  | [derksen mediaopt gmbh](http://www.mediaopt.de/)  |
 | moe |  | Michael Oehme  |
 | mojo |  | [mobilemojo](http://www.mobilemojo.de) – Multichannel Commerce  |
@@ -87,17 +99,19 @@
 | mst |  | [Marco Steinhäuser](http://www.marco-steinhaeuser.de)  |
 | net |  | [Netensio](http://www.netensio.de)  |
 | nf |  | [Netzfokus GmbH](http://www.netzfokus.de)  |
-| nr |  | [Norisk GmbH](http://www.noriskshop.de)  |
+| nr | norisk | [Norisk GmbH](http://www.noriskshop.de)  |
+| nw | Naehwelt | [Nähwelt Flach GmbH](https://www.naehwelt-flach.de)  |
 | nxs |  | [NEXUS Netsoft GmbH](http://www.nexus-netsoft.com)  |
-| o2m |  | [2melons media GmbH](http://www.2melons.com/)  |
+| o2m |  | 2melons media GmbH |
 | od |  | [OXID-Design](https://www.oxid-design.com/)|
 | of2 | | [Keywan Ghadami](https://github.com/keywan-ghadami-oxid) |
 | one | | [One Commerce GmbH](http://www.onecommerce.de/) |
-| ot |  | [Ontraq Europe GmbH & Co. KG](http://www.ontraq.eu/)  |
+| ot | Ontraq | [Ontraq Europe GmbH & Co. KG](http://www.ontraq.eu/)  |
 | ox | OxidEsales | [OXID eSales AG](http://www.oxid-esales.com/)  |
-| oxac |  | [OXID Academy](https://www.oxid-esales.com/de/support-services/academy/ueberblick.html)  |
+| oxcom | OxidCommunity | [OXID Community](https://github.com/OXIDprojects/)  |
+| oxac | OxidAcademy | [OXID Academy](https://www.oxid-esales.com/de/support-services/academy/ueberblick.html)  |
 | oxs | OxidEsalesSupport | [OXID eSales AG (Support)](http://www.oxid-esales.com/en/support-services/overview.html)  |
-| oxps |  | [OXID eSales AG (Professional Services)](http://www.oxid-esales.com/en/support-services/professional-services/overview.html)  |
+| oxps | OxidProfessionalServices | [OXID eSales AG (Professional Services)](http://www.oxid-esales.com/en/support-services/professional-services/overview.html)  |
 | oe | OxidEsales | [OXID eSales AG (eFire extensions)](http://www.oxid-esales.com/)  |
 | payo |  | [Payolution](http://www.payolution.com/)  |
 | payp |  | [PayPal (Europe) S.à r.l. et Cie, S.C.A.](http://www.paypal.com/)  |
@@ -108,9 +122,11 @@
 | pix |  | [PIXELPRODUZENTEN](http://www.pixelproduzenten.de/)  |
 | ps | ProudSourcing | [Proud Sourcing GmbH](https://www.proudcommerce.com)  |
 | ps |  | [OXID eSales AG (Professional Services)](http://www.oxid-esales.com/en/support-services/professional-services/overview.html) (deprecated)  |
-| ra |  | [renzel.agentur GmbH](http://www.renzel-agentur.de/)  |
+| ra | RenzelAgentur | [renzel.agentur GmbH](http://www.renzel-agentur.de/)  |
 | ros |  | [Reich Online Services GmbH](http://www.reich-online.biz/)  |
+| rpay | RatePAY | [RatePAY GmbH](https://www.ratepay.com/)  |
 | rr |  | Robert Rosendahl  |
+| rth | RiethBiz | [Helmut Rieth](https://www.rieth.biz/)  |
 | sb |  | [Shopboost GmbH](http://www.shopboost.de/)  |
 | sbw |  | [Stephan Bauer Webentwicklung](http://stephanbauer.org/)  |
 | sc |  | [ScaleCommerce GmbH](http://scale.sc/)  |
@@ -125,6 +141,7 @@
 | sol | SeidemannSolutions | [seidemann: solutions GmbH](http://www.seidemann.com)  |
 | sov |  | [Sovendus GmbH](http://www.sovendus.com/)  |
 | spark5 |  | [Spark5 GmbH](http://www.spark5.de)  |
+| st | subtel | [subtel GmbH](https://www.subtel.de)  |
 | stme |  | [STUTTGART MEDIA GmbH](https://stuttgartmedia.de)  |
 | sv |  | [Christian Lehmann](http://www.svingo.com)  |
 | sw | SeidemannWeb | [Seidemann Web GmbH](https://seidemann-web.com)  |
@@ -137,6 +154,7 @@
 | trka |  | [tarkka.ch](http://www.tarkka.ch/)  |
 | tro |  | [Tronet GmbH](http://www.tro.net/)  |
 | tru |  | [Truman Textilien GmbH](http://www.truman.de/)  |
+| trw |  | [Lorenz & Lorenz GbR](http://www.the-real-world.de/)  |
 | tsw |  | [texdata software gmbh](http://www.texdata.de)  |
 | tw |  | [Take it Web](http://www.takeitweb.fr)  |
 | twt | TWT | [TWT Interactive GmbH](https://www.twt.de)  |
@@ -144,7 +162,7 @@
 | vd | VITAdisplays | [VITAdisplays](https://www.vitadisplays.com)  |
 | ve |  | [VeInteractive](http://www.veinteractive.com)  |
 | ver |  | [VERDURE Medienteam GmbH](https://www.verdure.de)  |
-| vkf |  | [VKF Renzel GmbH](http://www.vkf-renzel.de)  |
+| vkf | VKFRenzel | [VKF Renzel GmbH](http://www.vkf-renzel.de)  |
 | vt |  | [Marat Bedoev](http://vanilla-thunder.github.io/)  |
 | wes |  | [Weber eBusiness Services GmbH](http://www.weber-ebusiness.de)  |
 | wn |  | [Wendnet](http://exchange.oxid-esales.com/index.php?cl=search&amp;searchparam=wendnet)  |
@@ -152,3 +170,4 @@
 | ys |  | [Y-SQUARE](http://www.y-square.de/)  |
 | zox |  | [Zoks.Net](http://www.zoks.net/)  |
 | zw |  | [Zunderweb](http://zunderweb.de)  |
+| zx | Zaxxo | [Zaxxo UG](http://zaxxo.de)  |
