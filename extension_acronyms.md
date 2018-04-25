@@ -25,7 +25,7 @@
 | bn |  | [Bohm Nonnen Urhahn Büro für interaktive Medien GmbH](http://www.bnu.de/)  |
 | bpy |  | [Billpay GmbH](http://www.billpay.de/)  |
 | br |  | [bitREC](http://www.bitrec.com)  |
-| bs | BuchSuite | [Buchsuite GbR](http://www.buchsuite.de)  |
+| bs | BuchSuite | [Buchsuite GbR](https://www.buchsuite.de)  |
 | bz |  | [Barzahlen](http://www.barzahlen.de/)  |
 | c4s |  | [Proclane GmbH](http://www.commerce4sap.com/)  |
 | cc |  | Commerce Coding |
@@ -70,6 +70,7 @@
 | gra |  | [GRAVIS Computervertriebsges. mbH](http://www.gravis.de/)  |
 | hsm |  | [A. Hausmann GmbH](http://www.hausmann.at)  |
 | ipro | idowapro | [idowapro.de](https://www.idowapro.de/)  |
+| ifab | IFabrikGmbH | [i-fabrik GmbH](https://www.ifabrik.de/)  |
 | ifabrik | Internetfabrik | [Internetfabrik GmbH](http://www.internetfabrik.de/)  |
 | imva |  | [imva.biz](http://imva.biz/)  |
 | ith |  | [ITholics GmbH](http://www.itholics.de/)  |
@@ -154,7 +155,7 @@
 | trka |  | [tarkka.ch](http://www.tarkka.ch/)  |
 | tro |  | [Tronet GmbH](http://www.tro.net/)  |
 | tru |  | [Truman Textilien GmbH](http://www.truman.de/)  |
-| trw | TheRealWorld | [Lorenz & Lorenz GbR](http://www.the-real-world.de/)  |
+| trw | TheRealWorld | [Lorenz & Lorenz GbR](https://www.the-real-world.de/)  |
 | tsw |  | [texdata software gmbh](http://www.texdata.de)  |
 | tw |  | [Take it Web](http://www.takeitweb.fr)  |
 | twt | TWT | [TWT Interactive GmbH](https://www.twt.de)  |
