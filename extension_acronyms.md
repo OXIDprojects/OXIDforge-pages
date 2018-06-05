@@ -167,6 +167,7 @@
 | ver |  | [VERDURE Medienteam GmbH](https://www.verdure.de)  |
 | vkf | VKFRenzel | [VKF Renzel GmbH](http://www.vkf-renzel.de)  |
 | vt |  | [Marat Bedoev](http://vanilla-thunder.github.io/)  |
+| wea |  | [WEA IT-Solutions](http://www.wea-it.com)  |
 | wes |  | [Weber eBusiness Services GmbH](http://www.weber-ebusiness.de)  |
 | wn |  | [Wendnet](http://exchange.oxid-esales.com/index.php?cl=search&amp;searchparam=wendnet)  |
 | wx |  | [webXpression](http://www.web-xpression.com)  |
