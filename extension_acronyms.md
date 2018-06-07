@@ -150,6 +150,7 @@
 | sw | SeidemannWeb | [Seidemann Web GmbH](https://seidemann-web.com)  |
 | sx |  | [sologics GmbH & Co. KG](http://www.sologics.de)  |
 | tab |  | [Tobias Merkl](http://www.tabs.eu/)  |
+| tds |  | [Teich Datensysteme](https://www.teich-datensysteme.de/shopsysteme/oxid/)  |
 | te | Techlines | [Noel Tschigor](http://www.techlines.de/)  |
 | tc |  | [top concepts GmbH](http://www.topconcepts.com)  |
 | tm |  | [Tobi Matthaiou](http://www.tobimat.eu/)  |
