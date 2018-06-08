@@ -30,7 +30,7 @@
 | bz |  | [Barzahlen](http://www.barzahlen.de/)  |
 | c4s |  | [Proclane GmbH](http://www.commerce4sap.com/)  |
 | cc |  | Commerce Coding |
-| cc |  | [Code.Commerce](https://www.codecommerce.de/)  |
+| cc | CodeCommerce | [Code.Commerce](https://www.codecommerce.de/)  |
 | cher |  | Thomas Decher  |
 | cm |  | [commodule UG](http://www.commodule.de/)  |
 | cnc |  | [concepts and creations](http://www.con-creat.de/)  |
