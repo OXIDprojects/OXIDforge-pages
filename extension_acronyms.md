@@ -62,7 +62,7 @@
 | ewx | ERFOLGswerkzeug | [ERFOLGswerkzeug GmbH & Co. KG](https://www.erfolgswerkzeug.de)  |
 | fa | Fleurami | [fleur ami GmbH](http://www.fleur-ami.com/)  |
 | fc | Fatchip | [FATCHIP GmbH](http://www.fatchip.de/)  |
-| fd |  | [fabrique d’images ebusiness GmbH](http://www.fabriquedimages.de/)  |
+| fdi |  | [fabrique d’images ebusiness GmbH](http://www.fabriquedimages.de/)  |
 | ffb |  | [four for business AG](http://www.4fb.de/)  |
 | fox |  | [foxido.de](http://www.foxido.de/)  |
 | fp | FlorianPalme | [Florian Palme](https://www.florian-palme.de/oxid/) |
