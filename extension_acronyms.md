@@ -8,7 +8,7 @@
 | aix |  | [AIXhibit AG](http://www.aixhibit.de)  |
 | ak | AdrianKirchner | [Adrian Kirchner](https://adrian-kirchner.com/)  |
 | all |  | [Allenstein Media](http://roman-allenstein.de)  |
-| any |  | [anyMOTION GRAPHICS GmbH](http://www.anymotion.de)  |
+| any | Anymotion | [anyMOTION GRAPHICS GmbH](http://www.anymotion.de)  |
 | ao |  | [addonline](http://www.addonline.fr)  |
 | ape |  | [von Affenfels GmbH](http://www.vonaffenfels.de/)  |
 | as |  | [Anton Scheib](http://tonisch.de/)  |
