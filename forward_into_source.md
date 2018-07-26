@@ -6,10 +6,17 @@ similar to https://mysqldumper.jira.com/wiki/spaces/OTC/pages/11665436/Installin
 
 ## Set a symlink
 
-## Alter your .htaccess file
+## Create a .htaccess file 
 
 ```
-RewriteCond %{HTTP_HOST} .* [NC]
-RewriteCond %{REQUEST_URI} !source/
-RewriteRule ^(.*)$ source/$1 [L]
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{HTTP_HOST} .* [NC]
+    RewriteCond %{REQUEST_URI} !source/
+    RewriteRule ^(.*)$ source/$1 [L]
+</IfModule>
+```
+Additionally, you have to add a line to config.inc.php in source folder:
+```
+$_SERVER['SCRIPT_NAME'] = str_replace('/source', '', $_SERVER['SCRIPT_NAME']);
 ```
