@@ -102,6 +102,7 @@
 | mst |  | [Marco Steinhäuser](http://www.marco-steinhaeuser.de)  |
 | net |  | [Netensio](http://www.netensio.de)  |
 | nf |  | [Netzfokus GmbH](http://www.netzfokus.de)  |
+| nfc | Netformic | [Netformic GmbH](https://www.netformic.de) |
 | nr | norisk | [Norisk GmbH](http://www.noriskshop.de)  |
 | nw | Naehwelt | [Nähwelt Flach GmbH](https://www.naehwelt-flach.de)  |
 | nxs |  | [NEXUS Netsoft GmbH](http://www.nexus-netsoft.com)  |
