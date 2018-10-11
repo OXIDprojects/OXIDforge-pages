@@ -100,6 +100,7 @@
 | mpm |  | Michaël Parienti |
 | ms |  | [S&S Software und Service GmbH](http://www.susdv.de)  |
 | mst |  | [Marco Steinhäuser](http://www.marco-steinhaeuser.de)  |
+| mx | maexware | [maexware solutions GmbH](https://www.maexware-solutions.de)  |
 | net |  | [Netensio](http://www.netensio.de)  |
 | nf |  | [Netzfokus GmbH](http://www.netzfokus.de)  |
 | nfc | Netformic | [Netformic GmbH](https://www.netformic.de) |
