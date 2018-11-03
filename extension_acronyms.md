@@ -121,13 +121,14 @@
 | oe | OxidEsales | [OXID eSales AG (eFire extensions)](http://www.oxid-esales.com/)  |
 | payo |  | [Payolution](http://www.payolution.com/)  |
 | payp |  | [PayPal (Europe) S.à r.l. et Cie, S.C.A.](http://www.paypal.com/)  |
+| pc | Proud Commerce | [Proud Sourcing GmbH](https://www.proudcommerce.com)  |
 | phpmw |  | Michael Wagner(http://www.wagnerentwicklung.de)  |
 | pl |  | [premiereline.de](http://www.premiereline.de/)  |
 | pp |  | [Pixelpark AG](http://www.pixelpark.com/)  |
 | pr |  | [primus-print](https://www.primus-print.de/)  |
 | pipro |  | [PIXELPRODUZENTEN](http://www.pixelproduzenten.de/)  |
 | pix |  | [PIXELPRODUZENTEN](http://www.pixelproduzenten.de/)  |
-| ps | ProudSourcing | [Proud Sourcing GmbH](https://www.proudcommerce.com)  |
+| ps | Proud Sourcing | [Proud Sourcing GmbH](https://www.proudsourcing.de) (deprecated)  |
 | ps |  | [OXID eSales AG (Professional Services)](http://www.oxid-esales.com/en/support-services/professional-services/overview.html) (deprecated)  |
 | ra | RenzelAgentur | [renzel.agentur GmbH](http://www.renzel-agentur.de/)  |
 | ros |  | [Reich Online Services GmbH](http://www.reich-online.biz/)  |
