@@ -32,6 +32,7 @@
 | cc |  | Commerce Coding |
 | cc | CodeCommerce | [Code.Commerce](https://www.codecommerce.de/)  |
 | cher |  | Thomas Decher  |
+| cl |  | Christian Luis  |
 | cm |  | [commodule UG](http://www.commodule.de/)  |
 | cnc |  | [concepts and creations](http://www.con-creat.de/)  |
 | cob |  | [codeblick – Argun und Seelos GbR](http://www.codeblick.de/)  |
