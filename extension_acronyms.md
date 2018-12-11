@@ -95,7 +95,7 @@
 | mf |  | [Mayflower GmbH](http://www.mayflower.de/)  |
 | mg |  | [suabo](http://www.suabo.de/)  |
 | mgm |  | [mgm technology partners GmbH](http://www.mgm-tp.com)  |
-| mo |  | [derksen mediaopt gmbh](http://www.mediaopt.de/)  |
+| mo | Mediaopt | [derksen mediaopt gmbh](http://www.mediaopt.de/)  |
 | moe |  | Michael Oehme  |
 | mojo |  | [mobilemojo](http://www.mobilemojo.de) – Multichannel Commerce  |
 | mos |  | [MOS-TANGRAM AG](http://www.mos-tangram.com)  |
