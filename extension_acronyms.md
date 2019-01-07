@@ -179,6 +179,7 @@
 | wn |  | [Wendnet](http://exchange.oxid-esales.com/index.php?cl=search&amp;searchparam=wendnet)  |
 | wx |  | [webXpression](http://www.web-xpression.com)  |
 | ys |  | [Y-SQUARE](http://www.y-square.de/)  |
+| zlab | ZLab | [Zeppelin Lab GmbH](https://www.z-lab.com/)  |
 | zox |  | [Zoks.Net](http://www.zoks.net/)  |
 | zw |  | [Zunderweb](http://zunderweb.de)  |
 | zx | Zaxxo | [Zaxxo UG](http://zaxxo.de)  |
