@@ -1,3 +1,7 @@
+This file is outdated for we moved on to another system to display your acronyms, namespaces and links. Follow this link in order to see the list and how it looks like now: https://oxidforge.org/de/vendor. Please do not send pull requests to this file any longer as they will not be taken in respect. Please register yourselves at https://oxidforge.org/de/modulhersteller-entwickler-eintragen instead.
+
+
+
 | Acronym  | Vendor namespace | Company name |
 | ------------- | ------------- | ------------- |
 | a4p |  | [apps4print](http://www.apps4print.com/)  |
