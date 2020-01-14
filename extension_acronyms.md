@@ -156,7 +156,7 @@ This file is outdated for we moved on to another system to display your acronyms
 | spark5 |  | [Spark5 GmbH](http://www.spark5.de)  |
 | st | subtel | [subtel GmbH](https://www.subtel.de)  |
 | stme |  | [STUTTGART MEDIA GmbH](https://stuttgartmedia.de)  |
-| sv |  | [Christian Lehmann](http://www.svingo.com)  |
+| sv |  | [Christian Lehmann](http://www.svingo.com) //turned to GLware.de |
 | sw | SeidemannWeb | [Seidemann Web GmbH](https://seidemann-web.com)  |
 | sx |  | [sologics GmbH & Co. KG](http://www.sologics.de)  |
 | tab |  | [Tobias Merkl](http://www.tabs.eu/)  |
