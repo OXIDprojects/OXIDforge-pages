@@ -107,6 +107,7 @@ This file is outdated for we moved on to another system to display your acronyms
 | ms |  | [S&S Software und Service GmbH](http://www.susdv.de)  |
 | mst |  | [Marco Steinhäuser](http://www.marco-steinhaeuser.de)  |
 | mx | maexware | [maexware solutions GmbH](https://www.maexware-solutions.de)  |
+| nc | Netcom | [Netcom AG](https://www.netcomag.ch)  |
 | net |  | [Netensio](http://www.netensio.de)  |
 | nf |  | [Netzfokus GmbH](http://www.netzfokus.de)  |
 | nfc | Netformic | [Netformic GmbH](https://www.netformic.de) |
