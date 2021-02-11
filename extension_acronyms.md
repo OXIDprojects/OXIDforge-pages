@@ -6,6 +6,7 @@ This file is outdated for we moved on to another system to display your acronyms
 | ------------- | ------------- | ------------- |
 | a4p |  | [apps4print](http://www.apps4print.com/)  |
 | ab | AlfredBez | [Alfred Bez](http://www.alfredbez.de/)  |
+| aby | AuthorizedBy | [authorized.by](https://www.authorized.by)  |
 | ag |  | [AGETO Service GmbH](http://www.ageto.de/)  |
 | ag | Aggrosoft | [Aggrosoft GmbH](http://www.aggrosoft.de/)  |
 | aik |  | aikme GmbH (aikmedia)  |
@@ -160,7 +161,7 @@ This file is outdated for we moved on to another system to display your acronyms
 | sv |  | [Christian Lehmann](http://www.svingo.com) //turned to GLware.de |
 | sw | SeidemannWeb | [Seidemann Web GmbH](https://seidemann-web.com)  |
 | sx |  | [sologics GmbH & Co. KG](http://www.sologics.de)  |
-| tab |  | [Tobias Merkl](http://www.tabs.eu/)  |
+| tabsl | Tabsl | [Tobias Merkl](http://www.oxid-module.eu/)  |
 | tds |  | [Teich Datensysteme](https://www.teich-datensysteme.de/shopsysteme/oxid/)  |
 | te | Techlines | [Noel Tschigor](http://www.techlines.de/)  |
 | tc |  | [top concepts GmbH](http://www.topconcepts.com)  |
